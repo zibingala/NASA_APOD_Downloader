@@ -14,16 +14,12 @@ NAME IT in line 19
 
 Two modes: 
 - change booleans in line 22 or line 28
-- - set dates for single download or iteration
-
-# HD / IMAGE ONLY
+- set dates for single download or iteration in line {23,25} && line {29,32}
 
 - Automatically tries to use 'hdurl' (you can uncomment line 61 for simple url)
 - Currently works only with images (no videos, or other 'media_type')
 
-# BASED ON
+# ENJOY THE UNIVERSE
 
-Ajinkya Sonawane's code on medium.com
+Based on Ajinkya Sonawane's code on medium.com
 https://medium.com/daily-python/consuming-nasa-api-using-python-part-1-daily-python-17-4ce104fa47ab
-
-# Enjoy The Universe!
