@@ -16,7 +16,7 @@ NAME IT in line 19
 # USAGE
 
 Two modes (Single date || Iterate through Years/Months) :  
-- change booleans in line 22 or line 28
+- Change booleans in line 22 or line 28 to choose between modes
 - set dates for single download or iteration in line {23,25} && line {29,32}
 
 - Automatically tries to use 'hdurl' (you can uncomment line 61 for simple url)
