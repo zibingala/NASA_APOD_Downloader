@@ -1,6 +1,9 @@
 # NASA_APOD_Downloader
 NASA - Astro Picture of the Day Downloader
 
+Based on Ajinkya Sonawane's code on medium.com
+https://medium.com/daily-python/consuming-nasa-api-using-python-part-1-daily-python-17-4ce104fa47ab
+
 # INSTALL
 pip install requests
 
@@ -19,7 +22,4 @@ Two modes:
 - Automatically tries to use 'hdurl' (you can uncomment line 61 for simple url)
 - Currently works only with images (no videos, or other 'media_type')
 
-# ENJOY THE UNIVERSE
-
-Based on Ajinkya Sonawane's code on medium.com
-https://medium.com/daily-python/consuming-nasa-api-using-python-part-1-daily-python-17-4ce104fa47ab
+# ENJOY THE UNIVERSE!
