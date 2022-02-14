@@ -12,9 +12,8 @@ pip install requests
 
 CREATE your API-key at https://api.nasa.gov/  
 COPY it to line 16  
-
 FOLDER for your downloads automatically created  
-NAME IT in line 19  
+SPECIFY FOLDER in line 19  
 
 # USAGE
 
