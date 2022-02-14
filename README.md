@@ -15,7 +15,7 @@ NAME IT in line 19
 
 # USAGE
 
-Two modes: 
+Two modes (Single date || Iterate through Years/Months) :  
 - change booleans in line 22 or line 28
 - set dates for single download or iteration in line {23,25} && line {29,32}
 
