@@ -4,6 +4,7 @@
 #### Based on Ajinkya Sonawane's code on medium.com #######
 ## https://medium.com/daily-python/consuming-nasa-api-using-python-part-1-daily-python-17-4ce104fa47ab
 ###########################################################
+######### https://github.com/zibingala/ # 2022 ############
 
 ## pip install requests
 import requests
@@ -87,13 +88,4 @@ if Single:
 
 if Iterate:
     iteratethrough(y1, y2, m1, m2)
-
-
-
-
-
-
-
-
-
-# https://github.com/zibingala/ # 2022 #
+    
