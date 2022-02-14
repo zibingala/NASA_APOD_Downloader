@@ -8,21 +8,21 @@ Using NASA APOD API:
 https://github.com/nasa/apod-api
 
 # INSTALL
-pip install requests
+pip install requests  
 
-CREATE your API-key at https://api.nasa.gov/
-COPY it to line 16
+CREATE your API-key at https://api.nasa.gov/  
+COPY it to line 16  
 
-FOLDER for your downloads automatically created
-NAME IT in line 19
+FOLDER for your downloads automatically created  
+NAME IT in line 19  
 
 # USAGE
 
 Two modes (Single date || Iterate through Years/Months) :  
-- Change booleans in line 22 or line 28 to choose between modes
-- Set dates for single download or iteration in line {23,25} && line {29,32}
+- Change booleans in line 22 or line 28 to choose between modes  
+- Set dates for single download or iteration in line {23,25} && line {29,32}  
   
-- Automatically tries to use 'hdurl' (you can uncomment line 61 for simple url)
-- Currently works only with images (no videos, or other 'media_type')
+- Automatically tries to use 'hdurl' (you can uncomment line 61 for simple url)  
+- Currently works only with images (no videos, or other 'media_type')  
 
 # ENJOY THE UNIVERSE!
