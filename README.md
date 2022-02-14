@@ -1,7 +1,7 @@
 # NASA_APOD_Downloader
 NASA - Astro Picture of the Day Downloader
 
-Based on Ajinkya Sonawane's code on medium.com  
+Based on Ajinkya Sonawane's code on medium.com   
 https://medium.com/daily-python/consuming-nasa-api-using-python-part-1-daily-python-17-4ce104fa47ab
 
 # INSTALL
