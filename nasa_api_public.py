@@ -72,7 +72,6 @@ def fetchAPOD(y,m,d):
 def iteratethrough(y1, y2, m1, m2):
     for y in range (y1, y2+1):
         for m in range (m1, m2+1):
-            # of course, some kind of switch function would be more elegant than nested if-else-if-else-if...
             if m in (1, 3, 5, 7, 8, 10, 12):
                 for d in range (1,31+1):
                     fetchAPOD(y, m, d)
