@@ -68,7 +68,7 @@ def fetchAPOD(y,m,d):
     r = requests.get(url, allow_redirects=True)
     open(FolderName +'/apod' + str(y) + str(m) + str(d) + '.jpg', 'wb').write(r.content)
 
-## iterates through years - change year
+## iterates through years
 def iteratethrough(y1, y2, m1, m2):
     for y in range (y1, y2+1):
         for m in range (m1, m2+1):
